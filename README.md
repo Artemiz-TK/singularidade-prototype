@@ -3,6 +3,9 @@
 > [!NOTE]
 > Esse projeto foi desenvolvido para resolução Full HD (1080x1920)
 
+> [!TIP]
+> Uma dica: se o jogo pausar, você pode continuar apertando play e ele volta a rodar (pensei em dar essa dica para previnir o caso de nem tentar dar play novamente no jogo)
+
 ## Modificação de Estado (fase)
 Abrindo o projeto, você vai se deparar com isso na hierarquia: <br/><br/>
 
